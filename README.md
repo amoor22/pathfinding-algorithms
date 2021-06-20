@@ -7,4 +7,4 @@
 This repository includes various pathfinding algorithms in both text and GUI format
 ***
 ## Screenshots
-![scrn_shot1](screenshots\scrn_shot1.jpg)
+![scrn_shot1](screenshots/scrn_shot1.jpg)
